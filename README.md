@@ -49,7 +49,7 @@ python main.py
 ```
 Enter Domain Name: example.com
 
-↳ Loading(O) Loading(sublister)
+↳ Loading(OOOO)
 <================RESULT================>
 subdomain1.example.com
 subdomain2.example.com
